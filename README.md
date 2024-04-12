@@ -1,13 +1,14 @@
 ## Digimon Fans
 
-<h2>Projeto criado com o intuito somente de práticar requisições HTTP</h2
+<p> Projeto criado com o intuito somente de práticar requisições HTTP </p>
 
 ## Tecnologias Utilizadas
+
 <div>
     <li>
-        Back-End    =>  PHP/Laravel 10
-        Front-End   =>  Blade porém irei atualizar para o Vue.js
-        Data-Base   =>  MySQL  
+       <p> Back-End    =>  PHP/Laravel 10 </p>
+       <p> Front-End   =>  Blade porém irei atualizar para o Vue.js </p>
+       <p> Data-Base   =>  MySQL </p>  
     </li>
 </div>
 
