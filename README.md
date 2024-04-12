@@ -5,10 +5,10 @@
 ## Tecnologias Utilizadas
 
 <div>
-    <li>
-       <p> Back-End    =>  PHP/Laravel 10 </p>
-       <p> Front-End   =>  Blade porém irei atualizar para o Vue.js </p>
-       <p> Data-Base   =>  MySQL </p>  
-    </li>
+  
+<p> Back-End    =>  PHP/Laravel 10 </p>
+<p> Front-End   =>  Blade porém irei atualizar para o Vue.js </p>
+<p> Data-Base   =>  MySQL </p>  
+    
 </div>
 
